@@ -12,5 +12,6 @@
     "uuid": "^13.0.0"
   },
   "private": true,
+  "author": "Web Applications Development Team",
   "license": "MIT"
 }
